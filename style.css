@@ -42,7 +42,7 @@
   border-radius: 12px;
 }
 
-.button2::before {
+.button2:hover::before {
   content: "";
   position:absolute;
   top: 0;
