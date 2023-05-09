@@ -97,5 +97,21 @@
   inset .2rem 1rem #fff;
 }
 
+.button4 {
+  padding: 16px 32px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  transition: .2s;
+}
+
+.button4:hover{
+  background-image: linear-gradient(to
+  right top, #00ebff, #00d3ff, #00b8ff, #0099ff, #0074ff, #0d63ff, #2f4eff, #4d31f3, #663cfd, #2f4eff, #4d31f3, #663cfd, #7948fc, #8953fc, #975ffb
+  );
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
 
 
