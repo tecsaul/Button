@@ -90,6 +90,7 @@
   transition: all 1s ease;
   box-shadow: .5rem .5rem 1rem #ccc,
   -.5rem -.5rem 1rem #fff;
+  text-align: center;
 }
 
 .button3:hover {
